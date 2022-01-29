@@ -1,6 +1,7 @@
-# Arduino_base_code
+# DIY Ambilight
+
 Files for my DIY Ambilight solution, and a few scripts I wrote while learning how to use an Arduino.
----
+
 ## Hardware
 - [Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3/)
 - WS2812B LED Strip
