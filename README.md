@@ -10,4 +10,4 @@ Files for my DIY Ambilight solution, and a few scripts I wrote while learning ho
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Prismatik](https://github.com/psieg/Lightpack)
 
-<img src="https://github.com/Zayatsoff/Arduino_base_code/blob/main/IMG_2685.jpg" width="500">
+<img src="https://i.imgur.com/fle09aa.png" width="500">
